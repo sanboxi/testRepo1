@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="RestSharp">
+      <HintPath>..\RestSharp.106.1.0\lib\net452\RestSharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
